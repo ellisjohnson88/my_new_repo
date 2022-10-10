@@ -1,9 +1,10 @@
 MY TO-DO LIST
 
-A. Write an article.
-B. Code.
-C. Study books.
-D. Attend classes on time.
-E. Visit aunt.
-F. Apply for remote jobs. a small detour about GitHub
+ 1. Write an article.
+ 2. Code.
+ 3. Study books.
+ 4. Attend classes on time.
+ 5. Visit aunt.
+ 6. Apply for remote jobs. 
+ 7. Practice code
 
